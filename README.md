@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there, welcome to my GitHub profile 👋</h2>
+<h2 align="center">Всем привет, добро пожаловать на мой профиль GitHub  👋</h2>
 <table align=center>
   <tr>
     <td align=center><a href="https://web.telegram.org/z/">Telegram<br/></a>@Stasf3</td>
