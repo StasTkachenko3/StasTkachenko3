@@ -1,4 +1,4 @@
-<em><h2 align="center" > Hi there, welcome to my GitHub profile 👋</h2></em>
+<em><h2 align="center" > Welcome to my GitHub profile 👋</h2></em>
 <table align=center>
   <tr>
     <td align=center><a href="stas1696@mail.ru"><br/>stas1696@mail.ru</a></td>
