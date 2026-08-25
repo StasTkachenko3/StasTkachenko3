@@ -30,16 +30,12 @@
 </div>
 
 <em> <h2>🔥GitHub  Statistics:</h2></em>
-<p align="center">
+<p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=StasTkachenko3&layout=compact&theme=synthwave" alt="Top Languages">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=StasTkachenko3&layout=compact&theme=gruvbox_light" alt="Top Languages">
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-stats-extended.vercel.app/api?username=StasTkachenko3&show_icons=true&theme=synthwave&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
-  </a>
-</p>
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=StasTkachenko3&include_all_commits=true&theme=gruvbox_light)](https://github-stats-extended.vercel.app/api?username=StasTkachenko3&include_all_commits=true&theme=gruvbox_light)
 
