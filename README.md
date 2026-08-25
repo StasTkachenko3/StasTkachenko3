@@ -29,9 +29,17 @@
   </div>
 </div>
 
-<em> <h2>🔥 Statistics:</h2></em>
-|                                                                                                                                         |                                                                                                                           |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StasTkachenko3&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StasTkachenko3&show_icons=true&theme=highcontrast&layout=compact) |
+<em> <h2>🔥GitHub  Statistics:</h2></em>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=StasTkachenko3&layout=compact&theme=synthwave" alt="Top Languages">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-stats-extended.vercel.app/api?username=StasTkachenko3&show_icons=true&theme=synthwave&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
+  </a>
+</p>
 
 
